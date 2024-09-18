@@ -1,0 +1,3 @@
+.yes { background-color: black; color: #fff;}
+.no  { background-color: yellow; color: black; }
+.no, .yes { font-size: 25px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
